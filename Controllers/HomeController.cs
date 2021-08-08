@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SalesWebMvc.sln.Models;
+using SalesWebMvc.sln.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+
 
 namespace SalesWebMvc.sln.Controllers
 {
@@ -17,15 +18,15 @@ namespace SalesWebMvc.sln.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
-
+            ViewData["Message"] = "Salles web MVC app from c# course.";
+            ViewData["Email"] = "dinho.live01@hotmail.com";
             return View();
         }
 
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
-
+            ViewData["Email"] = "dinho.live01@hotmail.com";
             return View();
         }
 
