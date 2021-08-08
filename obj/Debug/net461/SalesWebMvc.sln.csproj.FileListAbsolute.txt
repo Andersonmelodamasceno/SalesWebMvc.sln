@@ -362,4 +362,3 @@ C:\Users\ander\Desktop\SalesWebMvc.sln\SalesWebMvc.sln\bin\Debug\net461\System.C
 C:\Users\ander\Desktop\SalesWebMvc.sln\SalesWebMvc.sln\bin\Debug\net461\System.Composition.TypedParts.dll
 C:\Users\ander\Desktop\SalesWebMvc.sln\SalesWebMvc.sln\bin\Debug\net461\System.Data.SqlClient.dll
 C:\Users\ander\Desktop\SalesWebMvc.sln\SalesWebMvc.sln\bin\Debug\net461\System.Interactive.Async.dll
-C:\Users\ander\Desktop\SalesWebMvc.sln\SalesWebMvc.sln\obj\Debug\net461\Razor\Views\Departments\Index.cshtml.g.cs
